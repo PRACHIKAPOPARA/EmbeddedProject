@@ -1,0 +1,2 @@
+# EmbeddedProject
+Smart Kitchen Arduino 
